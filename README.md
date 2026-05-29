@@ -1,126 +1,147 @@
-<h1 align="center">
-  ✨ G U S T A V O ✨
-</h1>
-
-<h1 align="center">
-  ⚡ C E C A T O ⚡
-</h1>
-
-<h1 align="center">
-  🚀 G U S T A V O  C E C A T O 🚀
-</h1>
-
-<h1 align="center">
-  💻 G U S T A V O • C E C A T O 💻
-</h1>
-
-<h1 align="center">
-  🌌 Gustavo Cecato 🌌
-</h1>
+<h1 align="center">✨ G U S T A V O ✨</h1>
+<h1 align="center">⚡ C E C A T O ⚡</h1>
+<h1 align="center">🚀 G U S T A V O • C E C A T O 🚀</h1>
+<h1 align="center">💻 GUSTAVO CECATO 💻</h1>
+<h1 align="center">🌌 G U S T A V O 🌌</h1>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Beginner+Developer+in+constant+evolution+📚;Learning+programming+step+by+step+💻;Building+my+future+line+by+line+🚀;Bug+today%2C+feature+tomorrow+🐛➡️✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Beginner+Developer+building+his+world+🌍;Learning+code+like+a+game+🎮;Bug+fixing+is+my+boss+fight+⚔️;Every+line+is+progress+📈" />
 </h3>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Welcome%20to%20My%20Universe&fontAlign=50&fontAlignY=40&color=gradient&fontSize=52"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MY%20DIGITAL%20UNIVERSE&fontAlign=50&fontAlignY=40&color=gradient&fontSize=52"/>
 </div>
 
 ---
 
 # 🧠 ABOUT ME
 
-- 🎓 Beginner programming student  
-- 💻 Learning fullstack development from scratch  
-- 🧩 Trying to understand how everything connects  
-- 🎮 Loves games, tech, and creative coding  
-- 🚀 Future goal: become a strong software engineer  
+- 🎓 Beginner Programming Student  
+- 💻 Learning fullstack development step by step  
+- 🎮 I learn coding like a game progression system  
+- 🧩 Debugging is my daily challenge  
+- 🚀 Goal: become a strong software engineer  
 
 ---
 
-# 🌍 TOP 50 HUMAN LANGUAGES (WIDELY SPOKEN)
+# 🌍 50+ LANGUAGES I RECOGNIZE
 
 <div align="center">
 
 🇬🇧 English 🇨🇳 Mandarin 🇮🇳 Hindi 🇪🇸 Spanish 🇫🇷 French  
-🇸🇦 Arabic 🇧🇩 Bengali 🇵🇹 Portuguese 🇷🇺 Russian 🇵🇰 Urdu  
-🇮🇩 Indonesian 🇩🇪 German 🇯🇵 Japanese 🇳🇬 Hausa 🇳🇵 Nepali  
-🇹🇷 Turkish 🇰🇷 Korean 🇻🇳 Vietnamese 🇮🇹 Italian 🇹🇭 Thai  
-🇵🇭 Filipino 🇮🇷 Persian 🇵🇱 Polish 🇺🇦 Ukrainian 🇲🇾 Malay  
-🇲🇲 Burmese 🇳🇱 Dutch 🇬🇷 Greek 🇨🇿 Czech 🇸🇪 Swedish  
-🇭🇺 Hungarian 🇮🇱 Hebrew 🇨🇦 Punjabi 🇪🇹 Amharic 🇸🇴 Somali  
-🇲🇿 Swahili 🇱🇰 Sinhala 🇰🇭 Khmer 🇱🇦 Lao 🇳🇴 Norwegian  
-🇩🇰 Danish 🇫🇮 Finnish 🇸🇰 Slovak 🇭🇷 Croatian 🇷🇴 Romanian  
-🇱🇹 Lithuanian 🇱🇻 Latvian 🇪🇪 Estonian 🇧🇬 Bulgarian
+🇵🇹 Portuguese 🇸🇦 Arabic 🇧🇩 Bengali 🇷🇺 Russian 🇯🇵 Japanese  
+🇩🇪 German 🇮🇩 Indonesian 🇰🇷 Korean 🇮🇹 Italian 🇹🇷 Turkish  
+🇻🇳 Vietnamese 🇵🇱 Polish 🇺🇦 Ukrainian 🇳🇱 Dutch 🇲🇾 Malay  
+🇹🇭 Thai 🇵🇭 Filipino 🇮🇷 Persian 🇷🇴 Romanian 🇬🇷 Greek  
+🇸🇪 Swedish 🇳🇴 Norwegian 🇩🇰 Danish 🇫🇮 Finnish 🇨🇿 Czech  
+🇭🇺 Hungarian 🇮🇱 Hebrew 🇸🇰 Slovak 🇭🇷 Croatian 🇱🇹 Lithuanian  
+🇱🇻 Latvian 🇪🇪 Estonian 🇧🇬 Bulgarian 🇰🇭 Khmer 🇱🇦 Lao  
+🇲🇲 Burmese 🇳🇵 Nepali 🇵🇰 Urdu 🇹🇯 Tajik 🇺🇿 Uzbek  
+🇪🇹 Amharic 🇰🇪 Swahili 🇳🇬 Yoruba 🇿🇦 Zulu
 
 </div>
 
 ---
 
-# 💻 PROGRAMMING LANGUAGES (MASSIVE STACK)
+# 💻 PROGRAMMING LANGUAGES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,ruby,go,rust,kotlin,swift,dart,scala,perl,lua,haskell,elixir,clojure,html,css,react,nodejs,vue,angular,svelte,nextjs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,ruby,go,rust,kotlin,swift,dart,scala,lua,haskell,elixir,clojure,html,css,react,nodejs,vue,angular,nextjs,svelte,express,nestjs" />
 
 </div>
 
 ---
 
-# 🧰 TOOLS & SOFTWARE
+# 🧰 TOOLS & CREATIVE SOFTWARE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,illustrator,linux,windows,apple,docker,kubernetes,mysql,postgres,mongodb,firebase,postman,webpack,babel,npm,yarn" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,linux,docker,mysql,postgres,mongodb,firebase,postman,notion,webpack,npm,yarn" />
 
 </div>
 
 <div align="center">
 
-🟣 Visual Studio Code • 🎨 Figma • 🖌️ Photoshop • 📊 PowerPoint • 📈 Excel • 📄 Word  
+🎨 Photoshop • 🎨 Illustrator • 📊 PowerPoint • 📈 Excel • 📄 Word  
 🎬 Premiere Pro • 🎧 FL Studio • 🧠 Notion • ☁️ Firebase • 🐳 Docker
 
 </div>
 
 ---
 
-# 🎮 REAL GAMES INSIDE MY PROFILE
+# 🎮 REAL GAMES (SIMULATED INSIDE PROFILE)
+
+## 🐍 Snake Game (Classic AI Loop)
+<div align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## 🟦 Minecraft Vibes (Building Mode)
+<div align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
+</div>
+
+---
+
+## 💣 Minesweeper (Logic Explosion)
+<div align="center">
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="320"/>
+</div>
+
+---
+
+## 🟨 Tetris (Block Thinking Mode)
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="320"/>
+</div>
+
+---
+
+## 👾 Pac-Man (Retro Developer Mind)
+<div align="center">
+<img src="https://media.giphy.com/media/3o7TKz9bX9v1kZ2g0Y/giphy.gif" width="320"/>
+</div>
+
+---
+
+## 🏁 Racing Game (Speed Learning Mode)
+<div align="center">
+<img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="320"/>
+</div>
+
+---
+
+# 🏆 OLYMPIADS & ACHIEVEMENTS
 
 <div align="center">
 
-## 🐍 Snake Game (GitHub Contribution Snake)
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+## 🥇 Math Olympiad (IMO) — Participant
+<img src="https://img.shields.io/badge/IMO-Mathematics-Gold?style=for-the-badge&logo=opsgenie&logoColor=yellow"/>
 
----
+## 🧠 Informatics Olympiad (IOI) — Training Phase
+<img src="https://img.shields.io/badge/IOI-Programming-blue?style=for-the-badge&logo=codeforces"/>
 
-## 💣 Minesweeper Vibes (Logic Mode)
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
+## ⚙️ ICPC (Programming Contest) — Beginner Stage
+<img src="https://img.shields.io/badge/ICPC-Competitive%20Programming-red?style=for-the-badge&logo=codeforces"/>
 
----
+## 🔬 Physics Olympiad — Learning Stage
+<img src="https://img.shields.io/badge/Physics-Olympiad-purple?style=for-the-badge&logo=academia"/>
 
-## 🟦 Minecraft Energy
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q3dGJ1b2N0b2Z0b2V2b2Z3bGJ6b2Z6bG9xZ2Z5b3Z3b3Z3b3Z3b3Z3/gdUo7U3qXb5d6/giphy.gif" width="300"/>
+## 🌍 Kangaroo Math Contest — Participant
+<img src="https://img.shields.io/badge/Kangaroo-Math-green?style=for-the-badge&logo=bookstack"/>
 
----
+## 🧮 ACM Training — In Progress
+<img src="https://img.shields.io/badge/ACM-Training-black?style=for-the-badge&logo=github"/>
 
-## 🟨 Tetris Brain Mode
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
-
----
-
-## 👻 Pac-Man Classic
-<img src="https://media.giphy.com/media/3o7TKz9bX9v1kZ2g0Y/giphy.gif" width="300"/>
-
----
-
-## 🏁 Racing Games Energy
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300"/>
+## 🧩 Coding Challenges — Daily Grind
+<img src="https://img.shields.io/badge/Code-Challenges-orange?style=for-the-badge&logo=leetcode"/>
 
 </div>
 
@@ -138,28 +159,17 @@
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🌐 CONNECT
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge&color=8A2BE2"/>
-
 </div>
 
 ---
 
 ## ✨ FINAL MESSAGE
 
-> “I’m not experienced yet — I’m in construction mode.”
+> “I don’t study programming. I progress through it like a game.”
 
 ---
