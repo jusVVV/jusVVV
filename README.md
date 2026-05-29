@@ -1,112 +1,144 @@
-
 <h1 align="center">
-  Arthur 👑
+  ✨ G U S T A V O ✨
 </h1>
 
+<h1 align="center">
+  ⚡ C E C A T O ⚡
+</h1>
+
+<h1 align="center">
+  🚀 G U S T A V O  C E C A T O 🚀
+</h1>
+
+<h1 align="center">
+  💻 G U S T A V O • C E C A T O 💻
+</h1>
+
+<h1 align="center">
+  🌌 Gustavo Cecato 🌌
+</h1>
+
+---
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Crafting+elegance+through+code.;Building+digital+experiences+with+precision.;Future+Software+Architect+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Beginner+Developer+in+constant+evolution+📚;Learning+programming+step+by+step+💻;Building+my+future+line+by+line+🚀;Bug+today%2C+feature+tomorrow+🐛➡️✨" />
 </h3>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20my%20universe&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Welcome%20to%20My%20Universe&fontAlign=50&fontAlignY=40&color=gradient&fontSize=52"/>
 
 </div>
 
 ---
 
-## ✨ TECHNOLOGICAL EXPERTISE
+# 🧠 ABOUT ME
+
+- 🎓 Beginner programming student  
+- 💻 Learning fullstack development from scratch  
+- 🧩 Trying to understand how everything connects  
+- 🎮 Loves games, tech, and creative coding  
+- 🚀 Future goal: become a strong software engineer  
+
+---
+
+# 🌍 TOP 50 HUMAN LANGUAGES (WIDELY SPOKEN)
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/CSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+🇬🇧 English 🇨🇳 Mandarin 🇮🇳 Hindi 🇪🇸 Spanish 🇫🇷 French  
+🇸🇦 Arabic 🇧🇩 Bengali 🇵🇹 Portuguese 🇷🇺 Russian 🇵🇰 Urdu  
+🇮🇩 Indonesian 🇩🇪 German 🇯🇵 Japanese 🇳🇬 Hausa 🇳🇵 Nepali  
+🇹🇷 Turkish 🇰🇷 Korean 🇻🇳 Vietnamese 🇮🇹 Italian 🇹🇭 Thai  
+🇵🇭 Filipino 🇮🇷 Persian 🇵🇱 Polish 🇺🇦 Ukrainian 🇲🇾 Malay  
+🇲🇲 Burmese 🇳🇱 Dutch 🇬🇷 Greek 🇨🇿 Czech 🇸🇪 Swedish  
+🇭🇺 Hungarian 🇮🇱 Hebrew 🇨🇦 Punjabi 🇪🇹 Amharic 🇸🇴 Somali  
+🇲🇿 Swahili 🇱🇰 Sinhala 🇰🇭 Khmer 🇱🇦 Lao 🇳🇴 Norwegian  
+🇩🇰 Danish 🇫🇮 Finnish 🇸🇰 Slovak 🇭🇷 Croatian 🇷🇴 Romanian  
+🇱🇹 Lithuanian 🇱🇻 Latvian 🇪🇪 Estonian 🇧🇬 Bulgarian
 
 </div>
 
 ---
 
-## 🌍 LANGUAGES I SPEAK
+# 💻 PROGRAMMING LANGUAGES (MASSIVE STACK)
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Portuguese-Native-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spanish-Advanced-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Italian-Intermediate-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/French-Intermediate-purple?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,ruby,go,rust,kotlin,swift,dart,scala,perl,lua,haskell,elixir,clojure,html,css,react,nodejs,vue,angular,svelte,nextjs,express,nestjs" />
 
 </div>
 
 ---
 
-## 🧠 ABOUT ME
-
-An enthusiast of technology, software engineering,
-and sophisticated digital solutions.
-
-Focused on transforming ideas into elegant,
-efficient, and scalable systems.
-
-- 🎓 Student & technology enthusiast  
-- 🚀 Constantly exploring modern development  
-- 📚 Currently mastering JavaScript, Python & C++  
-- 🎯 Passionate about clean architecture and design  
-- ⚡ Turning caffeine into scalable applications  
-
----
-
-## 🌐 CONNECT WITH ME
+# 🧰 TOOLS & SOFTWARE
 
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,illustrator,linux,windows,apple,docker,kubernetes,mysql,postgres,mongodb,firebase,postman,webpack,babel,npm,yarn" />
+
+</div>
+
+<div align="center">
+
+🟣 Visual Studio Code • 🎨 Figma • 🖌️ Photoshop • 📊 PowerPoint • 📈 Excel • 📄 Word  
+🎬 Premiere Pro • 🎧 FL Studio • 🧠 Notion • ☁️ Firebase • 🐳 Docker
 
 </div>
 
 ---
 
-## 🕹️ GAMES
+# 🎮 REAL GAMES INSIDE MY PROFILE
 
 <div align="center">
 
-### 🐍 Snake Game (Contribution Snake)
-
+## 🐍 Snake Game (GitHub Contribution Snake)
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 
+---
+
+## 💣 Minesweeper Vibes (Logic Mode)
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
+
+---
+
+## 🟦 Minecraft Energy
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q3dGJ1b2N0b2Z0b2V2b2Z3bGJ6b2Z6bG9xZ2Z5b3Z3b3Z3b3Z3b3Z3/gdUo7U3qXb5d6/giphy.gif" width="300"/>
+
+---
+
+## 🟨 Tetris Brain Mode
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+
+---
+
+## 👻 Pac-Man Classic
+<img src="https://media.giphy.com/media/3o7TKz9bX9v1kZ2g0Y/giphy.gif" width="300"/>
+
+---
+
+## 🏁 Racing Games Energy
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300"/>
+
 </div>
 
 ---
 
-## 🛠 LANGUAGES & TOOLS
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,py,java,php,go,rust,kotlin,swift,dart,react,nodejs,vue,angular,tailwind,bootstrap,mysql,postgres,mongodb,firebase,docker,linux,git,github,vscode,figma" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -116,10 +148,18 @@ efficient, and scalable systems.
 
 ---
 
+# 🌐 CONNECT
+
 <div align="center">
 
-### ✨ “Perfection is not attainable, but if we chase perfection, we can catch excellence.” - Arthur The Great ✨
-
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=9370DB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge&color=8A2BE2"/>
 
 </div>
+
+---
+
+## ✨ FINAL MESSAGE
+
+> “I’m not experienced yet — I’m in construction mode.”
+
+---
