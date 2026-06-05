@@ -28,15 +28,23 @@
 
 ---
 
-## 🌎 Languages
+<h2>🌎 Languages</h2>
 
-| Language | Level |
-|-----------|-----------|
-| 🇧🇷 Português | ![Native](https://img.shields.io/badge/Native-green) |
-| 🇺🇸 English | ![B2](https://img.shields.io/badge/B2-Pre--Advanced-blue) |
-| 🇮🇹 Italiano | ![Learning](https://img.shields.io/badge/Learning-yellow) |
-| 🇪🇸 Español | ![Learning](https://img.shields.io/badge/Learning-yellow) |
+<p>
+  <img src="https://img.shields.io/badge/🇧🇷_Português-Native-2ea043?style=for-the-badge&labelColor=f5f0e6&color=2ea043" />
+</p>
 
+<p>
+  <img src="https://img.shields.io/badge/🇺🇸_English-B2_Pre--Advanced-1f6feb?style=for-the-badge&labelColor=f5f0e6&color=1f6feb" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🇮🇹_Italiano-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🇪🇸_Español-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
+</p>
 ---
 # 🌍 50+ LANGUAGES I RECOGNIZE
 
