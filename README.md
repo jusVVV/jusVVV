@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,linux,docker,mysql,postgres,mongodb,firebase,postman,notion,webpack,npm,yarn" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,mysql,mongodb" />
 
 </div>
 
@@ -76,81 +76,6 @@
 
 ---
 
-## 🟦 Minecraft Vibes (Building Mode)
-<div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320"/>
-</div>
-
----
-
-## 💣 Minesweeper (Logic Explosion)
-<div align="center">
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="320"/>
-</div>
-
----
-
-## 🟨 Tetris (Block Thinking Mode)
-<div align="center">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="320"/>
-</div>
-
----
-
-## 👾 Pac-Man (Retro Developer Mind)
-<div align="center">
-<img src="https://media.giphy.com/media/3o7TKz9bX9v1kZ2g0Y/giphy.gif" width="320"/>
-</div>
-
----
-
-## 🏁 Racing Game (Speed Learning Mode)
-<div align="center">
-<img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="320"/>
-</div>
-
----
-
-# 🏆 OLYMPIADS & ACHIEVEMENTS
-
-<div align="center">
-
-## 🥇 Math Olympiad (IMO) — Participant
-<img src="https://img.shields.io/badge/IMO-Mathematics-Gold?style=for-the-badge&logo=opsgenie&logoColor=yellow"/>
-
-## 🧠 Informatics Olympiad (IOI) — Training Phase
-<img src="https://img.shields.io/badge/IOI-Programming-blue?style=for-the-badge&logo=codeforces"/>
-
-## ⚙️ ICPC (Programming Contest) — Beginner Stage
-<img src="https://img.shields.io/badge/ICPC-Competitive%20Programming-red?style=for-the-badge&logo=codeforces"/>
-
-## 🔬 Physics Olympiad — Learning Stage
-<img src="https://img.shields.io/badge/Physics-Olympiad-purple?style=for-the-badge&logo=academia"/>
-
-## 🌍 Kangaroo Math Contest — Participant
-<img src="https://img.shields.io/badge/Kangaroo-Math-green?style=for-the-badge&logo=bookstack"/>
-
-## 🧮 ACM Training — In Progress
-<img src="https://img.shields.io/badge/ACM-Training-black?style=for-the-badge&logo=github"/>
-
-## 🧩 Coding Challenges — Daily Grind
-<img src="https://img.shields.io/badge/Code-Challenges-orange?style=for-the-badge&logo=leetcode"/>
-
-</div>
-
----
-
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🌐 CONNECT
 
@@ -163,6 +88,6 @@
 
 ## ✨ FINAL MESSAGE
 
-> “I don’t study programming. I progress through it like a game.”
+> “I don’t study programming. I sleep with programming.”
 
 ---
