@@ -34,14 +34,7 @@
 
 🇬🇧 English 🇨🇳 Mandarin 🇮🇳 Hindi 🇪🇸 Spanish 🇫🇷 French  
 🇵🇹 Portuguese 🇸🇦 Arabic 🇧🇩 Bengali 🇷🇺 Russian 🇯🇵 Japanese  
-🇩🇪 German 🇮🇩 Indonesian 🇰🇷 Korean 🇮🇹 Italian 🇹🇷 Turkish  
-🇻🇳 Vietnamese 🇵🇱 Polish 🇺🇦 Ukrainian 🇳🇱 Dutch 🇲🇾 Malay  
-🇹🇭 Thai 🇵🇭 Filipino 🇮🇷 Persian 🇷🇴 Romanian 🇬🇷 Greek  
-🇸🇪 Swedish 🇳🇴 Norwegian 🇩🇰 Danish 🇫🇮 Finnish 🇨🇿 Czech  
-🇭🇺 Hungarian 🇮🇱 Hebrew 🇸🇰 Slovak 🇭🇷 Croatian 🇱🇹 Lithuanian  
-🇱🇻 Latvian 🇪🇪 Estonian 🇧🇬 Bulgarian 🇰🇭 Khmer 🇱🇦 Lao  
-🇲🇲 Burmese 🇳🇵 Nepali 🇵🇰 Urdu 🇹🇯 Tajik 🇺🇿 Uzbek  
-🇪🇹 Amharic 🇰🇪 Swahili 🇳🇬 Yoruba 🇿🇦 Zulu
+
 
 </div>
 
@@ -51,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,ruby,go,rust,kotlin,swift,dart,scala,lua,haskell,elixir,clojure,html,css,react,nodejs,vue,angular,nextjs,svelte,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=js,python,java,lua,html,css" />
 
 </div>
 
