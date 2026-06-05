@@ -48,6 +48,8 @@
   </p>
 </div>
 
+---
+
 # 💻 PROGRAMMING LANGUAGES
 
 <div align="center">
