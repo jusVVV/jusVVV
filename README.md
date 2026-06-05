@@ -30,32 +30,23 @@
 
 <h2>🌎 Languages</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/🇧🇷_Português-Native-2ea043?style=for-the-badge&labelColor=f5f0e6&color=2ea043" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/🇺🇸_English-B2_Pre--Advanced-1f6feb?style=for-the-badge&labelColor=f5f0e6&color=1f6feb" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/🇮🇹_Italiano-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/🇪🇸_Español-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
-</p>
----
-# 🌍 50+ LANGUAGES I RECOGNIZE
-
-<div align="center">
-
-🇬🇧 English 🇨🇳 Mandarin 🇮🇳 Hindi 🇪🇸 Spanish 🇫🇷 French  
-🇵🇹 Portuguese 🇸🇦 Arabic 🇧🇩 Bengali 🇷🇺 Russian 🇯🇵 Japanese  
-
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <p>
+    <img src="https://img.shields.io/badge/🇧🇷_Português-Native-2ea043?style=for-the-badge&labelColor=f5f0e6&color=2ea043" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/🇺🇸_English-B2_Pre--Advanced-1f6feb?style=for-the-badge&labelColor=f5f0e6&color=1f6feb" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/🇮🇹_Italiano-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/🇪🇸_Español-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
+  </p>
 </div>
-
 ---
 
 # 💻 PROGRAMMING LANGUAGES
