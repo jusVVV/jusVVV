@@ -30,7 +30,7 @@
 
 <h2>🌎 Languages</h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/🇧🇷_Português-Native-2ea043?style=for-the-badge&labelColor=f5f0e6&color=2ea043" />
   </p>
@@ -47,7 +47,6 @@
     <img src="https://img.shields.io/badge/🇪🇸_Español-Learning-f0b429?style=for-the-badge&labelColor=f5f0e6&color=f0b429" />
   </p>
 </div>
----
 
 # 💻 PROGRAMMING LANGUAGES
 
