@@ -28,6 +28,16 @@
 
 ---
 
+## 🌎 Languages
+
+| Language | Level |
+|-----------|-----------|
+| 🇧🇷 Português | ![Native](https://img.shields.io/badge/Native-green) |
+| 🇺🇸 English | ![B2](https://img.shields.io/badge/B2-Pre--Advanced-blue) |
+| 🇮🇹 Italiano | ![Learning](https://img.shields.io/badge/Learning-yellow) |
+| 🇪🇸 Español | ![Learning](https://img.shields.io/badge/Learning-yellow) |
+
+---
 # 🌍 50+ LANGUAGES I RECOGNIZE
 
 <div align="center">
