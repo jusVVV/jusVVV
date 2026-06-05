@@ -1,4 +1,4 @@
-<h1 align="center">✨ G U S T A V O ✨</h1>
+
 <h1 align="center">⚡ C E C A T O ⚡</h1>
 <h1 align="center">🚀 G U S T A V O • C E C A T O 🚀</h1>
 <h1 align="center">💻 GUSTAVO CECATO 💻</h1>
